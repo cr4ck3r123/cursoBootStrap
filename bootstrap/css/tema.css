@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: #0069d9;
+    
+}
+
+body .navbar {
+    margin-top: -32px;
+    margin-bottom:0px; 
+    white-space: 0px;
+}
+
